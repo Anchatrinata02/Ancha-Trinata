@@ -1,67 +1,44 @@
-# Ancha Trinata
-**ancha1525420@gmail.com:**
-**Kota Tangerang, :**  
+# Nama Lengkap
+
+**Email:** [ancha1525420@gmail.com])  
+**GitHub:** [Anchatrinata02](https://github.com/username)  
+**Lokasi:** Kota Tangerang, Indonesia  
 
 ---
 
 ## 📌 **Tentang Saya**
-Deskripsi singkat tentang diri Anda, misalnya:  
-Saya seorang profesional di bidang [bidang Anda] dengan pengalaman [berapa tahun] dalam [keahlian utama Anda]. Bersemangat untuk memecahkan masalah kompleks dan membangun solusi inovatif.
+Saya seorang surveyor dengan pengalaman 1,5 tahun di bidang survei lapangan dan pemetaan. Berpengalaman dalam menggunakan teknologi terbaru untuk meningkatkan efisiensi pengumpulan data dan Melakukan pengukuran tanah, bangunan, atau fitur geografis lainnya menggunakan alat seperti total station, GPS. Selalu berusaha menghadirkan inovasi, termasuk penerapan perangkat lunak pemetaan modern dan otomatisasi alur kerja untuk hasil yang lebih akurat dan cepat. Berkomitmen untuk memberikan solusi terbaik sesuai kebutuhan proyek.
 
 ---
 
 ## 💼 **Pengalaman Kerja**
 
-### **[Posisi Anda]**  
-**[Nama Perusahaan]**  
-_(Bulan/Tahun - Bulan/Tahun atau Saat Ini)_  
-- **Pencapaian atau Proyek**: Jelaskan pencapaian Anda di posisi ini.
-- **Tanggung Jawab Utama**: Tulis tanggung jawab inti dalam pekerjaan Anda.
-- **Teknologi atau Alat yang Digunakan**: Sebutkan teknologi atau alat yang relevan.
-
-### **[Posisi Sebelumnya]**  
-**[Nama Perusahaan]**  
-_(Bulan/Tahun - Bulan/Tahun)_  
-- **Pencapaian atau Proyek**: Jelaskan pencapaian Anda.
-- **Tanggung Jawab Utama**: Tulis tanggung jawab inti.
+### **[Surveyor]**  
+**[PTSP]**  
+_(01/2023 - 11/2024)_  
+- **Tanggung Jawab Utama**: Memastikan bahwa semua pengukuran dan data sesuai dengan peraturan dan standar hukum yang berlaku,Memberikan arahan kepada tim lapangan selama proses survei.
+- **Teknologi atau Alat yang Digunakan**: total station, GPS, Meteran, Disto.
 
 ---
 
 ## 📚 **Pendidikan**
 
-### **[Gelar Anda]**  
-**[Nama Universitas/Institusi]**  
-_(Tahun Masuk - Tahun Lulus)_  
-- Pencapaian atau Proyek (opsional)
+### **[SMA]**  
+**[Annida AL ISLAMY]**  
+_(2019 - 2022)_  
 
 ---
 
 ## 🛠️ **Keahlian**
-- **Bahasa Pemrograman**: Sebutkan bahasa pemrograman yang Anda kuasai (misalnya, Python, Java, JavaScript).
-- **Framework & Tools**: Tulis framework atau tools yang Anda gunakan (misalnya, React, Node.js, Docker).
-- **Lainnya**: Keterampilan lain yang relevan (misalnya, manajemen proyek, desain UI/UX).
-
----
-
-## 🌟 **Proyek**
-### **[Nama Proyek 1]**  
-Deskripsi singkat tentang proyek ini, apa yang telah Anda bangun, dan teknologi yang digunakan. Sertakan tautan ke repositori jika ada: [GitHub Repo](https://github.com/username/repo).
-
-### **[Nama Proyek 2]**  
-Deskripsi singkat tentang proyek ini. Misalnya, "Dibangun menggunakan Python dan Flask untuk otomatisasi data."
-
----
-
-## 📜 **Sertifikasi**
-- **[Nama Sertifikasi]** - **[Penerbit]** _(Bulan/Tahun)_
+Penggunaan alat ukur total station, GPS, Meteran, Disto serta Auto CAD, Ms Word.
 
 ---
 
 ## 📈 **Bahasa**
-- Bahasa Utama: Tingkat kefasihan.
-- Bahasa Kedua (jika ada): Tingkat kefasihan.
+- Bahasa Utama: Indonesia.
+- Bahasa Kedua: Inggris.
 
 ---
 
-_Dibuat dengan ❤️ oleh [Nama Anda]._
+_Dibuat dengan ❤️ oleh [Ancha Trinata]._
 
